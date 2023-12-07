@@ -54,10 +54,12 @@ Output Storage: Cleaned data saved in Azure Data Lake Gen2 under 'cleaned data' 
 ![image](https://github.com/Alankbiju3988/Azure-End-to-End-Data-Anlaytics-Project/assets/97218077/534be38d-1da3-469a-93b2-ba06c48f8c37)
 
  
-#####(For detailed visualisation report, you can check the Power BI file)
+##### (For detailed visualisation report, you can check the Power BI file)
 
 ### VIII. Conclusion
 #### A. Project Achievements
 •	Successfully migrated and transformed data from Kaggle to Azure.
 •	Established an end-to-end analytics pipeline, incorporating various Azure services.
 •	Developed an insightful sales analysis dashboard using Power BI.
+
+#### For more detailed report you can view 'End To End Sales Data Analytics Project on Azure' word document
